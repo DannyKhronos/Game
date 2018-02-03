@@ -1,2 +1,3 @@
 # Game
-A game i made in C++, not complete now.
+I game a made in C++, not complete now.
+this is a test.
